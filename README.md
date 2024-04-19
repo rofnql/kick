@@ -30,6 +30,11 @@ node ./server/index.js
 ``!stop`` : 게임 참가자를 그만 받습니다. (스트리머 전용)<br>
 ``!reset`` : 참가자 초기화하고 다시 참가자를 받습니다. (스트리머 전용)<br>
 
+# 영도 사용법
+### 사용을 원하지 않는다면 신청곡 받는 서버 시작 안하면 됩니다.
+1. obs 브라우저 소스에 http://localhost:29523 추가 해상도 적절하게 1280 720 이상
+2. http://localhost:29523/control 에서 현재 재생중인거 스킵 가능
+
 # 구슬치기 사용법
 1. 설정 버튼을 클릭합니다.<br>
 <img src="https://github.com/theboocchirock/Kickbot/blob/main/marble1.png?raw=true">
