@@ -5,7 +5,7 @@
 
 1. 저장소 복제하기
 ```bash
-git clone https://github.com/theboocchirock/Kickbot.git
+git clone https://github.com/rofnql/kick-marble.git
 ```
 
 2. 필요한 node.js 라이브러리 설치하기
